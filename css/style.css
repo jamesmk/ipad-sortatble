@@ -277,13 +277,13 @@ td { vertical-align: top; }
   list-style: none;
   padding: 7px;
   margin-bottom: 4px;
-  padding-left: 30px;
+  padding-left: 50px;
   position: relative;
 }
 #order-me li span {
   position: absolute;
   top: 9px;
-  left: 9px;
+  left: 17px;
 }
 
 
