@@ -283,7 +283,11 @@ td { vertical-align: top; }
 #order-me li span {
   position: absolute;
   top: 9px;
-  left: 17px;
+  left: 9px;
+  background: url(../img/handle.gif) center 3px no-repeat;
+  width: 30px;
+  height: 20px;
+  cursor: move;
 }
 
 
